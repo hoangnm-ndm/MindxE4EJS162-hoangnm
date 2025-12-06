@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "email": "hoang@gmail.com",
+      "password": "$2a$10$X3V24nlMSt6IBykTQRERZeH1RbL1bii.VZsOZGidQimag2ecSZXou",
+      "fullname": "Nguyen Minh Hoang",
+      "id": 1
+    },
+    {
+      "email": "hoangnguyen@gmail.com",
+      "password": "$2a$10$oJBAgLrJ9S0fFSqumM2/9ueLOnR4k0aWElbkDnvNpGPtiShcLfQKm",
+      "fullname": "Nguyen Minh Hoang",
+      "id": 2
+    },
+    {
+      "email": "hoang98@gmail.com",
+      "password": "$2a$10$wMBS9Grc9hFWElBi16jeSO8D3rzWoYnT9RUFSYr50BZz2MabHHCG2",
+      "id": 3
+    },
+    {
+      "email": "hoanghoang@gmail.com",
+      "password": "$2a$10$d2JXA/Vv5D.cgi94VWDObe4443C8KxdrG.tmzteDVn81.3todXDUK",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "mindx-c4ejs162-hoangnm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch db.json -m ./node_modules/json-server-auth --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangnm-ndm/MindxE4EJS162-hoangnm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangnm-ndm/MindxE4EJS162-hoangnm/issues"
+  },
+  "homepage": "https://github.com/hoangnm-ndm/MindxE4EJS162-hoangnm#readme",
+  "dependencies": {
+    "concurrently": "^9.2.1",
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}

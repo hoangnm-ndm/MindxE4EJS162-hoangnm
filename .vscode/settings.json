@@ -1,0 +1,18 @@
+{
+  // ... các setting khác của bạn
+
+  // Tắt live reload khi thay đổi các file loại này
+  "liveServer.settings.ignoreFiles": [
+    "**/*.json", // tất cả file .json
+    "**/*.env",
+    "**/*.log",
+    "db.json",
+    "data.json",
+    "package.json",
+    "package-lock.json",
+    "yarn.lock",
+    ".gitignore",
+    "**/.git/**",
+    "**/node_modules/**"
+  ]
+}
